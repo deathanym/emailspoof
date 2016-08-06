@@ -1,0 +1,9 @@
+solucionar errores-repostirosio-
+
+
+Instalar los siguientes comandos 
+
+
+pip install clint
+pip 
+install termcolor
